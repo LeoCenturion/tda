@@ -24,42 +24,47 @@ def main():
     results=[]
     texts=os.listdir("./datasets")
 
-
-
-    nGrams=[1,2,3,4]
+    for t in texts:
+        if t.split(".")[1]=="gb":
+            texts.remove(t)
+    nGrams=[2,3]
     samplesPerMinHash = [5,10]
     nMinHashes=[5,1]
     threshold=[0,5]
     n = [naive.naiveStringMatching,"naive"]
     kr = [karpRabin.karpRabin,"kr"]
     algorithms=makeJKRFunctions(nGrams=nGrams,samplesPerMinHash=samplesPerMinHash,\
-                                nMinHashes=nMinHashes,threshold=threshold)
+                              nMinHashes=nMinHashes,threshold=threshold)
+    # algorithms=[]
     algorithms.append(n)
     algorithms.append(kr)
 
     patterns = []
     l = range(10, 50)
     n = 10
-    for f in texts:
-        tFile = open("./datasets/" + f, "r")
-        t = tFile.read().rstrip().replace(" ","")
-        p = []
-        tLen = len(t)
-        for i in range(n):
-            pLen = random.choice(l)
-            index = random.choice(range(tLen - pLen))
-            p.append(t[index:index + pLen])
+    # for f in texts:
+    #     tFile = open("./datasets/" + f, "r")
+    #     t = tFile.read().rstrip()
+    #     p = []
+    #     tLen = len(t)
+    #     for i in range(n):
+    #         pLen = random.choice(l)
+    #         index = random.choice(range(tLen - pLen))
+    #         p.append(t[index:index + pLen])
+    #
+    #     patterns.append(p)
+    #     tFile.close()
 
-        patterns.append(p)
-        tFile.close()
+    df = pd.read_csv("StringMatching.csv",delimiter=";")
 
-    for i in xrange(1):
+    for i in xrange(len(texts)):
 
         f = texts[len(texts)-i-1]
-        pattern = patterns[len(texts)-i-1]
+        # pattern = patterns[len(texts)-i-1]
+        pattern = df[df.Texto==f]["Patron"].values
 
         tFile = open("./datasets/" + f, "r")
-        t = tFile.read().rstrip().replace(" ","")
+        t = tFile.read().rstrip()
         tLen = len(t)
         print "processing  text {}".format(f)
         for p in pattern:
@@ -70,6 +75,12 @@ def main():
                 results.append([f, tLen, p, len(p), a[1], result["time"], len(result["matches"])])
                 print "time taken: {}".format(result["time"])
                 print "matches found: {}".format((len(result["matches"])))
+
+        resultsDf = pd.DataFrame(results,columns=["text", "len_text", "pattern", "len_pattern", "algorithm", "time", "matches"])
+
+        csv = open("resultadosjkr.csv", "w")
+        resultsDf.to_csv(csv)
+
         tFile.close()
 
 
@@ -77,8 +88,9 @@ def main():
 
     df = pd.DataFrame(results, columns=["text", "len_text", "pattern", "len_pattern", "algorithm", "time", "matches"])
 
-    csv = open("resultados.csv","w")
+    csv = open("resultadosjkr.csv","w")
     df.to_csv(csv)
+    csv.close()
 
 
 main()
