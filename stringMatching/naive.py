@@ -16,7 +16,7 @@ def naiveStringMatching(text,pattern):
         while(match and j<len(p)):
             if (t[i + j] != p[j]):
                 match=False
-            if (j >= (len(p) - 1)):
+            if (j >= (len(p) - 1) and match):
                 matches.append(i)
             j+=1
     finish = time.clock()
