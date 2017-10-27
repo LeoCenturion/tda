@@ -1,0 +1,173 @@
+,text,len_text,pattern,len_pattern,algorithm,time,matches
+0,quijote.txt,2178973,molino,6,boyer moore,1.115624,24
+1,quijote.txt,2178973,molino,6,kmp,0.628322,24
+2,quijote.txt,2178973,molinos de viento,17,boyer moore,0.462387,10
+3,quijote.txt,2178973,molinos de viento,17,kmp,0.590548,10
+4,quijote.txt,2178973,gigantes,8,boyer moore,0.943365,30
+5,quijote.txt,2178973,gigantes,8,kmp,0.595012,30
+6,quijote.txt,2178973,dijo Sancho Panza,17,boyer moore,0.573376,9
+7,quijote.txt,2178973,dijo Sancho Panza,17,kmp,0.629111,9
+8,quijote.txt,2178973,dijo,4,boyer moore,1.206347,1792
+9,quijote.txt,2178973,dijo,4,kmp,0.617033,1792
+10,quijote.txt,2178973,caballero,9,boyer moore,0.821961,866
+11,quijote.txt,2178973,caballero,9,kmp,0.607448,866
+12,quijote.txt,2178973,don Quijote,11,boyer moore,0.524093,1926
+13,quijote.txt,2178973,don Quijote,11,kmp,0.625821,1926
+14,quijote.txt,2178973,coger,5,boyer moore,1.230229,41
+15,quijote.txt,2178973,coger,5,kmp,0.58022,41
+16,quijote.txt,2178973,Un amigo y discreto,19,boyer moore,0.316721,1
+17,quijote.txt,2178973,Un amigo y discreto,19,kmp,0.565471,1
+18,quijote.txt,2178973,las cuales no digo yo ahora,27,boyer moore,0.239925,1
+19,quijote.txt,2178973,las cuales no digo yo ahora,27,kmp,0.58068,1
+20,quijote.txt,2178973,"a quien su esposa, ya vengada del atrevimiento del enamorado",60,boyer moore,0.159386,1
+21,quijote.txt,2178973,"a quien su esposa, ya vengada del atrevimiento del enamorado",60,kmp,0.632874,1
+22,bible.txt,4047389,God,3,boyer moore,2.437126,4040
+23,bible.txt,4047389,God,3,kmp,1.104416,4040
+24,bible.txt,4047389,king,4,boyer moore,2.585775,3129
+25,bible.txt,4047389,king,4,kmp,1.125229,3129
+26,bible.txt,4047389,seven,5,boyer moore,2.069579,629
+27,bible.txt,4047389,seven,5,kmp,1.161979,629
+28,bible.txt,4047389,Ludim,5,boyer moore,2.517525,2
+29,bible.txt,4047389,Ludim,5,kmp,1.102475,2
+30,bible.txt,4047389,And when,8,boyer moore,1.84835,678
+31,bible.txt,4047389,And when,8,kmp,1.108661,678
+32,bible.txt,4047389,And God made,12,boyer moore,0.857867,3
+33,bible.txt,4047389,And God made,12,kmp,1.107234,3
+34,bible.txt,4047389,And God said,12,boyer moore,1.504825,27
+35,bible.txt,4047389,And God said,12,kmp,1.101412,27
+36,bible.txt,4047389,And the sons of,15,boyer moore,0.983017,113
+37,bible.txt,4047389,And the sons of,15,kmp,1.097334,113
+38,bible.txt,4047389,LORD magnified Solomon,22,boyer moore,0.663522,1
+39,bible.txt,4047389,LORD magnified Solomon,22,kmp,1.111089,1
+40,bible.txt,4047389,The sons of Japheth,19,boyer moore,0.732801,2
+41,bible.txt,4047389,The sons of Japheth,19,kmp,1.112824,2
+42,bible.txt,4047389,the name of the one was,23,boyer moore,0.781826,9
+43,bible.txt,4047389,the name of the one was,23,kmp,1.288452,9
+44,bible.txt,4047389,These are the three sons of Noah,32,boyer moore,0.552321,1
+45,bible.txt,4047389,These are the three sons of Noah,32,kmp,1.121602,1
+46,random.txt,100000,wjy,3,boyer moore,0.062596,4
+47,random.txt,100000,wjy,3,kmp,0.026381,4
+48,random.txt,100000,loY,3,boyer moore,0.063623,2
+49,random.txt,100000,loY,3,kmp,0.028252,2
+50,random.txt,100000,7JWojO00WDPrJJEZO1vUIo,22,boyer moore,0.025654,1
+51,random.txt,100000,7JWojO00WDPrJJEZO1vUIo,22,kmp,0.025897,1
+52,random.txt,100000,MUDh4q 456NhjZnkip91wHW xwou,28,boyer moore,0.013698,1
+53,random.txt,100000,MUDh4q 456NhjZnkip91wHW xwou,28,kmp,0.026976,1
+54,random.txt,100000,00r7rJO29,9,boyer moore,0.054502,1
+55,random.txt,100000,00r7rJO29,9,kmp,0.030514,1
+56,random.txt,100000,abg,3,boyer moore,0.064041,2
+57,random.txt,100000,abg,3,kmp,0.028855,2
+58,hprt.dat,56737,aaagggg,7,boyer moore,0.011461,8
+59,hprt.dat,56737,aaagggg,7,kmp,0.019795,8
+60,hprt.dat,56737,aaaggggct,9,boyer moore,0.012306,2
+61,hprt.dat,56737,aaaggggct,9,kmp,0.02093,2
+62,hprt.dat,56737,ttttttcttt,10,boyer moore,0.01504,5
+63,hprt.dat,56737,ttttttcttt,10,kmp,0.01884,5
+64,hprt.dat,56737,ccccccttttt,11,boyer moore,0.009808,1
+65,hprt.dat,56737,ccccccttttt,11,kmp,0.018269,1
+66,hprt.dat,56737,catttt,6,boyer moore,0.013399,74
+67,hprt.dat,56737,catttt,6,kmp,0.020498,74
+68,hprt.dat,56737,gatcagaatgagaagggagggatggat,27,boyer moore,0.00423199999999,1
+69,hprt.dat,56737,gatcagaatgagaagggagggatggat,27,kmp,0.020091,1
+70,hprt.dat,56737,ggcta,5,boyer moore,0.024446,49
+71,hprt.dat,56737,ggcta,5,kmp,0.0207,49
+72,hprt.dat,56737,cagggca,7,boyer moore,0.018533,1
+73,hprt.dat,56737,cagggca,7,kmp,0.020315,1
+74,stm2.dat,86640,ttttcctt,8,boyer moore,0.03136,14
+75,stm2.dat,86640,ttttcctt,8,kmp,0.029667,14
+76,stm2.dat,86640,cctttc,6,boyer moore,0.038644,30
+77,stm2.dat,86640,cctttc,6,kmp,0.032181,30
+78,stm2.dat,86640,cgt,3,boyer moore,0.047338,289
+79,stm2.dat,86640,cgt,3,kmp,0.030448,289
+80,stm2.dat,86640,ttttccttcc,10,boyer moore,0.026983,1
+81,stm2.dat,86640,ttttccttcc,10,kmp,0.03195,1
+82,stm2.dat,86640,tttttttttttttttttt,18,boyer moore,0.003777,20
+83,stm2.dat,86640,tttttttttttttttttt,18,kmp,0.030934,20
+84,stm2.dat,86640,ttttttttttttttttttttttt,23,boyer moore,0.002956,4
+85,stm2.dat,86640,ttttttttttttttttttttttt,23,kmp,0.029116,4
+86,stm2.dat,86640,gccttgggcccagag,15,boyer moore,0.018579,1
+87,stm2.dat,86640,gccttgggcccagag,15,kmp,0.029766,1
+88,stm2.dat,86640,aaagag,6,boyer moore,0.036511,44
+89,stm2.dat,86640,aaagag,6,kmp,0.031641,44
+90,stm2.dat,86640,gtgacata,8,boyer moore,0.036186,1
+91,stm2.dat,86640,gtgacata,8,kmp,0.02948,1
+92,rbs.dat,180388,ggagaatt,8,boyer moore,0.059008,7
+93,rbs.dat,180388,ggagaatt,8,kmp,0.061273,7
+94,rbs.dat,180388,aaaatcttcct,11,boyer moore,0.046769,1
+95,rbs.dat,180388,aaaatcttcct,11,kmp,0.062918,1
+96,rbs.dat,180388,cccc,4,boyer moore,0.034266,345
+97,rbs.dat,180388,cccc,4,kmp,0.057366,345
+98,rbs.dat,180388,aaaatctt,8,boyer moore,0.059146,16
+99,rbs.dat,180388,aaaatctt,8,kmp,0.064372,16
+100,rbs.dat,180388,ggagctctccttctcgtccaggt,23,boyer moore,0.046377,1
+101,rbs.dat,180388,ggagctctccttctcgtccaggt,23,kmp,0.060464,1
+102,rbs.dat,180388,cccgctccc,9,boyer moore,0.0496,1
+103,rbs.dat,180388,cccgctccc,9,kmp,0.05673,1
+104,rbs.dat,180388,aaaagca,7,boyer moore,0.08144,38
+105,rbs.dat,180388,aaaagca,7,kmp,0.06385,38
+106,rbs.dat,180388,aaaagcac,8,boyer moore,0.094346,3
+107,rbs.dat,180388,aaaagcac,8,kmp,0.061659,3
+108,rbs.dat,180388,aaaagcact,9,boyer moore,0.045084,1
+109,rbs.dat,180388,aaaagcact,9,kmp,0.066102,1
+110,rbs.dat,180388,aaaagcacc,9,boyer moore,0.060566,1
+111,rbs.dat,180388,aaaagcacc,9,kmp,0.061856,1
+112,index.txt,2956,Codificaci,10,boyer moore,0.001445,15
+113,index.txt,2956,Codificaci,10,kmp,0.000886999999999,15
+114,index.txt,2956,Factbook,8,boyer moore,0.001599,1
+115,index.txt,2956,Factbook,8,kmp,0.000882999999995,1
+116,index.txt,2956,http://www-personal.umich.edu/~dporter/sampler/sampler.html,59,boyer moore,0.000243999999995,3
+117,index.txt,2956,http://www-personal.umich.edu/~dporter/sampler/sampler.html,59,kmp,0.000959000000002,3
+118,index.txt,2956,Autorizada del Rey Jacobo de la Biblia,38,boyer moore,0.000354999999999,1
+119,index.txt,2956,Autorizada del Rey Jacobo de la Biblia,38,kmp,0.001006,1
+120,index.txt,2956,.dat,4,boyer moore,0.001831,4
+121,index.txt,2956,.dat,4,kmp,0.001005,4
+122,index.txt,2956,el,2,boyer moore,0.001863,9
+123,index.txt,2956,el,2,kmp,0.000869000000002,9
+124,index.txt,2956,Textos,6,boyer moore,0.00161,3
+125,index.txt,2956,Textos,6,kmp,0.000832000000003,3
+126,pi.txt,1000000,14159,5,boyer moore,0.521572,16
+127,pi.txt,1000000,14159,5,kmp,0.320173,16
+128,pi.txt,1000000,1415,4,boyer moore,0.551873,94
+129,pi.txt,1000000,1415,4,kmp,0.325292,94
+130,pi.txt,1000000,81233,5,boyer moore,0.34917,13
+131,pi.txt,1000000,81233,5,kmp,0.299997,13
+132,pi.txt,1000000,314159,6,boyer moore,0.413719,2
+133,pi.txt,1000000,314159,6,kmp,0.320924,2
+134,pi.txt,1000000,4623436454285844479526,22,boyer moore,0.17142,1
+135,pi.txt,1000000,4623436454285844479526,22,kmp,0.312548,1
+136,pi.txt,1000000,1419927,7,boyer moore,0.394251,2
+137,pi.txt,1000000,1419927,7,kmp,0.331429,2
+138,pi.txt,1000000,8289018623074484047084490852849,31,boyer moore,0.077489,1
+139,pi.txt,1000000,8289018623074484047084490852849,31,kmp,0.311428,1
+140,world192.txt,2462509,Comparative area,16,boyer moore,0.714327,265
+141,world192.txt,2462509,Comparative area,16,kmp,0.672211,265
+142,world192.txt,2462509,use,3,boyer moore,1.442924,870
+143,world192.txt,2462509,use,3,kmp,0.712644,870
+144,world192.txt,2462509,Frontier Province,17,boyer moore,0.566705,1
+145,world192.txt,2462509,Frontier Province,17,kmp,0.677219,1
+146,world192.txt,2462509,summers,7,boyer moore,1.429692,71
+147,world192.txt,2462509,summers,7,kmp,0.675818,71
+148,world192.txt,2462509,disputes,8,boyer moore,1.288219,27
+149,world192.txt,2462509,disputes,8,kmp,0.759905,27
+150,world192.txt,2462509,semiprecious,12,boyer moore,1.059435,3
+151,world192.txt,2462509,semiprecious,12,kmp,0.719972,3
+152,world192.txt,2462509,clients,7,boyer moore,1.280417,1
+153,world192.txt,2462509,clients,7,kmp,0.692678,1
+154,world192.txt,2462509,government-controlled,21,boyer moore,0.761484,4
+155,world192.txt,2462509,government-controlled,21,kmp,0.674016,4
+156,world192.txt,2462509,Administrative divisions,24,boyer moore,0.404397,234
+157,world192.txt,2462509,Administrative divisions,24,kmp,0.677175,234
+158,world192.txt,2462509,"Badakhshan, Badghis, Baghlan",28,boyer moore,0.463538,1
+159,world192.txt,2462509,"Badakhshan, Badghis, Baghlan",28,kmp,0.661715,1
+160,egmf.txt,64483,Yo he visto,11,boyer moore,0.021002,2
+161,egmf.txt,64483,Yo he visto,11,kmp,0.018861,2
+162,egmf.txt,64483,hermano,7,boyer moore,0.026546,2
+163,egmf.txt,64483,hermano,7,kmp,0.017271,2
+164,egmf.txt,64483,cuando,6,boyer moore,0.031152,36
+165,egmf.txt,64483,cuando,6,kmp,0.017334,36
+166,egmf.txt,64483,Cuando,6,boyer moore,0.030828,7
+167,egmf.txt,64483,Cuando,6,kmp,0.017209,7
+168,egmf.txt,64483,"a pie y mostrando el umbligo,",29,boyer moore,0.00783300000001,1
+169,egmf.txt,64483,"a pie y mostrando el umbligo,",29,kmp,0.020986,1
+170,egmf.txt,64483,Va...ca...yendo gente al baile,30,boyer moore,0.00956499999999,1
+171,egmf.txt,64483,Va...ca...yendo gente al baile,30,kmp,0.016685,1

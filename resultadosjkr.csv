@@ -1,0 +1,705 @@
+,text,len_text,pattern,len_pattern,algorithm,time,matches
+0,quijote.txt,2178973,coger?,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",4.533292,2178967
+1,quijote.txt,2178973,coger?,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",4.542949,2178967
+2,quijote.txt,2178973,coger?,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",4.579122,2178967
+3,quijote.txt,2178973,coger?,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",4.499425,2178967
+4,quijote.txt,2178973,coger?,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",4.520309,2178967
+5,quijote.txt,2178973,coger?,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",4.676387,2178967
+6,quijote.txt,2178973,coger?,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",4.539886,2178967
+7,quijote.txt,2178973,coger?,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",4.614003,2178967
+8,quijote.txt,2178973,coger?,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",4.599693,2178967
+9,quijote.txt,2178973,coger?,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",4.615422,2178967
+10,quijote.txt,2178973,coger?,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",4.62199,2178967
+11,quijote.txt,2178973,coger?,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",4.579017,2178967
+12,quijote.txt,2178973,coger?,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",4.502374,2178967
+13,quijote.txt,2178973,coger?,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",4.503735,2178967
+14,quijote.txt,2178973,coger?,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",4.480965,2178967
+15,quijote.txt,2178973,coger?,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",4.438605,2178967
+16,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",4.823401,2178945
+17,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",4.836895,2178945
+18,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",4.810667,2178945
+19,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",4.821202,2178945
+20,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",4.854902,2178945
+21,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",4.900483,2178945
+22,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",4.809366,2178945
+23,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",4.804394,2178945
+24,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",4.812045,2178945
+25,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",4.816845,2178945
+26,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",4.819974,2178945
+27,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",4.771957,2178945
+28,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",4.785449,2178945
+29,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",4.790163,2178945
+30,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",4.81188,2178945
+31,quijote.txt,2178973,mucha raz?n tiene este se?or,28,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",4.806009,2178945
+32,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",5.130052,2178911
+33,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",5.122176,2178911
+34,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",5.111927,2178911
+35,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",5.127676,2178911
+36,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",5.143061,2178911
+37,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",5.14399,2178911
+38,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",5.161446,2178911
+39,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",5.129677,2178911
+40,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",5.171171,2178911
+41,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",5.329508,2178911
+42,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",5.282588,2178911
+43,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",5.188599,2178911
+44,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",5.16738,2178911
+45,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",5.297303,2178911
+46,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",5.164107,2178911
+47,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",5.265732,2178911
+48,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",4.909669,2178940
+49,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",5.024861,2178940
+50,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",4.913554,2178940
+51,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",4.919501,2178940
+52,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",4.904326,2178940
+53,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",4.975553,2178940
+54,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",4.956796,2178940
+55,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",4.876029,2178940
+56,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",4.865297,2178940
+57,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",4.974392,2178940
+58,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",4.887421,2178940
+59,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",4.855643,2178940
+60,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",4.884172,2178940
+61,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",4.897907,2178940
+62,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",4.982399,2178940
+63,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",4.892145,2178940
+64,bible.txt,4047389,God said,8,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",8.578081,4047381
+65,bible.txt,4047389,God said,8,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",8.451978,4047381
+66,bible.txt,4047389,God said,8,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",8.368078,4047381
+67,bible.txt,4047389,God said,8,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",8.581185,4047381
+68,bible.txt,4047389,God said,8,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",8.399288,4047381
+69,bible.txt,4047389,God said,8,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",8.378157,4047381
+70,bible.txt,4047389,God said,8,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",8.366764,4047381
+71,bible.txt,4047389,God said,8,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",8.322949,4047381
+72,bible.txt,4047389,God said,8,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",8.358618,4047381
+73,bible.txt,4047389,God said,8,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",8.268719,4047381
+74,bible.txt,4047389,God said,8,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",8.266391,4047381
+75,bible.txt,4047389,God said,8,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",8.28678,4047381
+76,bible.txt,4047389,God said,8,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",8.348958,4047381
+77,bible.txt,4047389,God said,8,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",8.37302,4047381
+78,bible.txt,4047389,God said,8,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",8.450872,4047381
+79,bible.txt,4047389,God said,8,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",8.263499,4047381
+80,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",8.752142,4047369
+81,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",8.719195,4047369
+82,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",8.731452,4047369
+83,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",8.700773,4047369
+84,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",8.79996,4047369
+85,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",8.702447,4047369
+86,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",8.675814,4047369
+87,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",8.648248,4047369
+88,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",8.677293,4047369
+89,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",8.713591,4047369
+90,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",8.688672,4047369
+91,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",8.682377,4047369
+92,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",8.723163,4047369
+93,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",8.72254,4047369
+94,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",9.217124,4047369
+95,bible.txt,4047389,And he walked in all,20,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",8.931367,4047369
+96,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",11.208323,4047331
+97,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",9.495909,4047331
+98,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",10.648786,4047331
+99,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",9.567721,4047331
+100,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",9.803291,4047331
+101,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",9.771458,4047331
+102,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",9.585355,4047331
+103,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",9.723948,4047331
+104,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",9.665769,4047331
+105,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",9.871501,4047331
+106,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",9.655057,4047331
+107,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",10.172332,4047331
+108,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",10.127984,4047331
+109,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",9.791249,4047331
+110,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",9.89651,4047331
+111,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",10.028985,4047331
+112,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",8.918359,4047374
+113,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",8.794668,4047374
+114,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",8.98128,4047374
+115,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",8.649121,4047374
+116,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",8.685063,4047374
+117,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",9.026708,4047374
+118,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",8.534874,4047374
+119,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",8.608869,4047374
+120,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",8.717945,4047374
+121,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",8.526499,4047374
+122,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",9.118611,4047374
+123,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",8.684187,4047374
+124,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",8.45442,4047374
+125,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",8.494165,4047374
+126,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",8.462059,4047374
+127,bible.txt,4047389,Hola papuchurri,15,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",9.232442,4047374
+128,random.txt,100000,1EwtcQ,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.202229,99994
+129,random.txt,100000,1EwtcQ,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.204587,99994
+130,random.txt,100000,1EwtcQ,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.206419,99994
+131,random.txt,100000,1EwtcQ,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.205169,99994
+132,random.txt,100000,1EwtcQ,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.203344,99994
+133,random.txt,100000,1EwtcQ,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.205783,99994
+134,random.txt,100000,1EwtcQ,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.204992,99994
+135,random.txt,100000,1EwtcQ,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.20765,99994
+136,random.txt,100000,1EwtcQ,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.207853,99994
+137,random.txt,100000,1EwtcQ,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.207697,99994
+138,random.txt,100000,1EwtcQ,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.208019,99994
+139,random.txt,100000,1EwtcQ,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.206364,99994
+140,random.txt,100000,1EwtcQ,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.207437,99994
+141,random.txt,100000,1EwtcQ,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.208347,99994
+142,random.txt,100000,1EwtcQ,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.204334,99994
+143,random.txt,100000,1EwtcQ,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.205837,99994
+144,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.223978,99976
+145,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.22427,99976
+146,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.222536,99976
+147,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.222633,99976
+148,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.224959,99976
+149,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.225815,99976
+150,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.225153,99976
+151,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.225262,99976
+152,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.227,99976
+153,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.224873,99976
+154,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.223473,99976
+155,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.222139,99976
+156,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.285006,99976
+157,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.279022,99976
+158,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.22224,99976
+159,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.221766,99976
+160,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.233402,99940
+161,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.235154,99940
+162,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.23622,99940
+163,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.236882,99940
+164,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.236698,99940
+165,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.23732,99940
+166,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.238376,99940
+167,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.238349,99940
+168,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.239417,99940
+169,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.253206,99940
+170,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.235324,99940
+171,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.2378,99940
+172,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.234347,99940
+173,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.236163,99940
+174,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.238021,99940
+175,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.237126,99940
+176,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.219471,99974
+177,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.219461,99974
+178,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.218952,99974
+179,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.218467,99974
+180,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.217378,99974
+181,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.215267,99974
+182,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.215473,99974
+183,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.218289,99974
+184,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.227636,99974
+185,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.215888,99974
+186,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.227628,99974
+187,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.302403,99974
+188,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.289913,99974
+189,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.222076,99974
+190,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.222207,99974
+191,random.txt,100000,random significa aleatorio,26,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.223089,99974
+192,hprt.dat,56737,caacca,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.119567,56731
+193,hprt.dat,56737,caacca,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.119087,56731
+194,hprt.dat,56737,caacca,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.118539,56731
+195,hprt.dat,56737,caacca,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.117913,56731
+196,hprt.dat,56737,caacca,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.154754,56731
+197,hprt.dat,56737,caacca,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.157034,56731
+198,hprt.dat,56737,caacca,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.141987,56731
+199,hprt.dat,56737,caacca,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.118909,56731
+200,hprt.dat,56737,caacca,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.118997,56731
+201,hprt.dat,56737,caacca,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.119383,56731
+202,hprt.dat,56737,caacca,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.134141,56731
+203,hprt.dat,56737,caacca,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.119345,56731
+204,hprt.dat,56737,caacca,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.119676,56731
+205,hprt.dat,56737,caacca,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.120126,56731
+206,hprt.dat,56737,caacca,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.120225,56731
+207,hprt.dat,56737,caacca,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.118935,56731
+208,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.127553,56713
+209,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.135026,56713
+210,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.127977,56713
+211,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.125885,56713
+212,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.126736,56713
+213,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.128485,56713
+214,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.128274,56713
+215,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.128042,56713
+216,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.127796,56713
+217,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.129309,56713
+218,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.131435,56713
+219,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.127797,56713
+220,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.129085,56713
+221,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.12776,56713
+222,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.12855,56713
+223,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.128241,56713
+224,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.137248,56677
+225,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.133297,56677
+226,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.13961,56677
+227,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.133443,56677
+228,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.135296,56677
+229,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.137821,56677
+230,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.136551,56677
+231,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.135564,56677
+232,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.135769,56677
+233,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.139846,56677
+234,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.135763,56677
+235,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.134744,56677
+236,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.135946,56677
+237,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.134509,56677
+238,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.136388,56677
+239,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.135798,56677
+240,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.133218,56686
+241,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.131437,56686
+242,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.133817,56686
+243,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.13449,56686
+244,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.133174,56686
+245,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.138181,56686
+246,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.134956,56686
+247,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.133008,56686
+248,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.133874,56686
+249,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.134263,56686
+250,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.133116,56686
+251,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.133288,56686
+252,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.134413,56686
+253,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.133726,56686
+254,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.134106,56686
+255,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.132628,56686
+256,stm2.dat,86640,aggtca,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.179326,86634
+257,stm2.dat,86640,aggtca,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.17903,86634
+258,stm2.dat,86640,aggtca,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.186116,86634
+259,stm2.dat,86640,aggtca,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.18014,86634
+260,stm2.dat,86640,aggtca,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.188376,86634
+261,stm2.dat,86640,aggtca,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.180762,86634
+262,stm2.dat,86640,aggtca,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.183379,86634
+263,stm2.dat,86640,aggtca,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.180302,86634
+264,stm2.dat,86640,aggtca,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.183145,86634
+265,stm2.dat,86640,aggtca,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.180531,86634
+266,stm2.dat,86640,aggtca,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.206296,86634
+267,stm2.dat,86640,aggtca,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.182961,86634
+268,stm2.dat,86640,aggtca,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.180242,86634
+269,stm2.dat,86640,aggtca,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.179863,86634
+270,stm2.dat,86640,aggtca,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.185193,86634
+271,stm2.dat,86640,aggtca,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.192055,86634
+272,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.197514,86616
+273,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.197665,86616
+274,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.202526,86616
+275,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.203576,86616
+276,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.195554,86616
+277,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.19569,86616
+278,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.200324,86616
+279,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.192982,86616
+280,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.194546,86616
+281,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.194924,86616
+282,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.196073,86616
+283,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.202651,86616
+284,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.195039,86616
+285,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.193976,86616
+286,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.194312,86616
+287,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.194421,86616
+288,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.213951,86580
+289,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.278369,86580
+290,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.269817,86580
+291,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.257398,86580
+292,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.211992,86580
+293,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.208291,86580
+294,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.205295,86580
+295,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.204055,86580
+296,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.260197,86580
+297,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.273634,86580
+298,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.262184,86580
+299,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.213181,86580
+300,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.209723,86580
+301,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.211408,86580
+302,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.214459,86580
+303,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.203262,86580
+304,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.202621,86612
+305,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.204112,86612
+306,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.204331,86612
+307,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.201638,86612
+308,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.201349,86612
+309,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.198757,86612
+310,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.196673,86612
+311,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.209311,86612
+312,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.209752,86612
+313,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.197083,86612
+314,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.200465,86612
+315,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.227126,86612
+316,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.25141,86612
+317,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.196614,86612
+318,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.204137,86612
+319,stm2.dat,86640,Buscame como laturradeViPuey,28,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.235475,86612
+320,rbs.dat,180388,taaaat,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.425006,180382
+321,rbs.dat,180388,taaaat,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.440309,180382
+322,rbs.dat,180388,taaaat,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.425275,180382
+323,rbs.dat,180388,taaaat,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.447893,180382
+324,rbs.dat,180388,taaaat,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.479363,180382
+325,rbs.dat,180388,taaaat,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.389397,180382
+326,rbs.dat,180388,taaaat,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.456505,180382
+327,rbs.dat,180388,taaaat,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.374942,180382
+328,rbs.dat,180388,taaaat,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.377629,180382
+329,rbs.dat,180388,taaaat,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.378772,180382
+330,rbs.dat,180388,taaaat,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.374068,180382
+331,rbs.dat,180388,taaaat,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.375311,180382
+332,rbs.dat,180388,taaaat,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.378157,180382
+333,rbs.dat,180388,taaaat,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.453477,180382
+334,rbs.dat,180388,taaaat,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.372957,180382
+335,rbs.dat,180388,taaaat,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.380256,180382
+336,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.409814,180364
+337,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.411666,180364
+338,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.409507,180364
+339,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.417316,180364
+340,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.410628,180364
+341,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.408249,180364
+342,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.407085,180364
+343,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.450152,180364
+344,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.418901,180364
+345,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.418332,180364
+346,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.438921,180364
+347,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.409579,180364
+348,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.469758,180364
+349,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.441093,180364
+350,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.438074,180364
+351,rbs.dat,180388,acatagcatcataaatttgtgaca,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.515243,180364
+352,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.450529,180328
+353,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.434169,180328
+354,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.435929,180328
+355,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.444238,180328
+356,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.429699,180328
+357,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.427149,180328
+358,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.426597,180328
+359,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.425452,180328
+360,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.458821,180328
+361,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.491086,180328
+362,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.430729,180328
+363,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.426541,180328
+364,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.515118,180328
+365,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.430494,180328
+366,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.482216,180328
+367,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.504133,180328
+368,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.419544,180368
+369,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.476185,180368
+370,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.406384,180368
+371,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.386348,180368
+372,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.406611,180368
+373,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.40067,180368
+374,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.409897,180368
+375,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.39485,180368
+376,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.410852,180368
+377,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.439104,180368
+378,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.407282,180368
+379,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.389565,180368
+380,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.419277,180368
+381,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.421173,180368
+382,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.502897,180368
+383,rbs.dat,180388,Flocicab -> malesemo,20,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.390849,180368
+384,index.txt,2956,Nombre,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.0127580000001,2950
+385,index.txt,2956,Nombre,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.0061310000001,2950
+386,index.txt,2956,Nombre,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.00595199999998,2950
+387,index.txt,2956,Nombre,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.00611700000013,2950
+388,index.txt,2956,Nombre,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.00612799999999,2950
+389,index.txt,2956,Nombre,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.00632999999993,2950
+390,index.txt,2956,Nombre,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.005989,2950
+391,index.txt,2956,Nombre,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.00584800000001,2950
+392,index.txt,2956,Nombre,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.00603300000012,2950
+393,index.txt,2956,Nombre,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.00601299999994,2950
+394,index.txt,2956,Nombre,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.00594599999999,2950
+395,index.txt,2956,Nombre,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.00612000000001,2950
+396,index.txt,2956,Nombre,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.00607599999989,2950
+397,index.txt,2956,Nombre,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.00614000000019,2950
+398,index.txt,2956,Nombre,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.00606499999981,2950
+399,index.txt,2956,Nombre,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.00604599999997,2950
+400,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.00647800000002,2934
+401,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.00649099999987,2934
+402,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.00665400000003,2934
+403,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.00665300000014,2934
+404,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.00645699999995,2934
+405,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.00667800000019,2934
+406,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.00634800000012,2934
+407,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.00633400000015,2934
+408,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.00656800000002,2934
+409,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.00653299999999,2934
+410,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.00655499999993,2934
+411,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.00660999999991,2934
+412,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.00645200000008,2934
+413,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.00653599999987,2934
+414,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.00663699999996,2934
+415,index.txt,2956,.edu/~dporter/sampler/,22,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.00674200000003,2934
+416,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.00686999999994,2899
+417,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.00662899999998,2899
+418,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.00683800000002,2899
+419,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.00674000000004,2899
+420,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.00684799999999,2899
+421,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.00685399999998,2899
+422,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.00679500000001,2899
+423,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.00685300000009,2899
+424,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.00686100000007,2899
+425,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.00684200000001,2899
+426,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.0068369999999,2899
+427,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.00690999999983,2899
+428,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.00683600000002,2899
+429,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.00694099999987,2899
+430,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.00698000000011,2899
+431,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.00668500000006,2899
+432,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.006619,2935
+433,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.00645299999996,2935
+434,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.00658999999996,2935
+435,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.00663399999985,2935
+436,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.00649599999997,2935
+437,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.00673999999981,2935
+438,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.00656200000003,2935
+439,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.00663999999983,2935
+440,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.00639000000001,2935
+441,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.0065219999999,2935
+442,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.00654899999995,2935
+443,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.00660399999992,2935
+444,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.00659300000007,2935
+445,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.00677999999994,2935
+446,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.00732999999991,2935
+447,index.txt,2956,Rexona no te abandona,21,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.006754,2935
+448,pi.txt,1000000,408504,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",2.172663,999994
+449,pi.txt,1000000,408504,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",2.092687,999994
+450,pi.txt,1000000,408504,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",2.186151,999994
+451,pi.txt,1000000,408504,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",2.092747,999994
+452,pi.txt,1000000,408504,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",2.083596,999994
+453,pi.txt,1000000,408504,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",2.116859,999994
+454,pi.txt,1000000,408504,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",2.119248,999994
+455,pi.txt,1000000,408504,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",2.139953,999994
+456,pi.txt,1000000,408504,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",2.156312,999994
+457,pi.txt,1000000,408504,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",2.12893,999994
+458,pi.txt,1000000,408504,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",2.093507,999994
+459,pi.txt,1000000,408504,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",2.108301,999994
+460,pi.txt,1000000,408504,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",2.096659,999994
+461,pi.txt,1000000,408504,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",2.120229,999994
+462,pi.txt,1000000,408504,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",2.090196,999994
+463,pi.txt,1000000,408504,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",2.086043,999994
+464,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",2.214811,999976
+465,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",2.219713,999976
+466,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",2.21876,999976
+467,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",2.230685,999976
+468,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",2.249571,999976
+469,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",2.234991,999976
+470,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",2.327986,999976
+471,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",2.514522,999976
+472,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",2.613935,999976
+473,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",2.245752,999976
+474,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",2.222256,999976
+475,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",2.239751,999976
+476,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",2.324723,999976
+477,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",2.504555,999976
+478,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",2.251568,999976
+479,pi.txt,1000000,474887120879742391971298,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",2.264724,999976
+480,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",2.430651,999940
+481,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",2.427349,999940
+482,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",2.388057,999940
+483,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",2.412307,999940
+484,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",2.420862,999940
+485,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",2.396817,999940
+486,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",2.395736,999940
+487,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",2.449194,999940
+488,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",2.37253,999940
+489,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",2.417544,999940
+490,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",2.487452,999940
+491,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",2.896817,999940
+492,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",2.678063,999940
+493,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",2.376663,999940
+494,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",2.37727,999940
+495,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",2.407615,999940
+496,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",2.194403,999986
+497,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",2.258993,999986
+498,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",2.165534,999986
+499,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",2.138142,999986
+500,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",2.175164,999986
+501,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",2.177103,999986
+502,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",2.239821,999986
+503,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",2.142701,999986
+504,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",2.165956,999986
+505,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",2.180291,999986
+506,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",2.201219,999986
+507,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",2.192219,999986
+508,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",2.16788,999986
+509,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",2.192452,999986
+510,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",2.278026,999986
+511,pi.txt,1000000,el pollito pio,14,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",2.210779,999986
+512,world192.txt,2462509,", foot",6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",5.23674,2462503
+513,world192.txt,2462509,", foot",6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",5.212912,2462503
+514,world192.txt,2462509,", foot",6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",5.177846,2462503
+515,world192.txt,2462509,", foot",6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",5.169878,2462503
+516,world192.txt,2462509,", foot",6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",5.211395,2462503
+517,world192.txt,2462509,", foot",6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",5.342216,2462503
+518,world192.txt,2462509,", foot",6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",5.163851,2462503
+519,world192.txt,2462509,", foot",6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",5.296177,2462503
+520,world192.txt,2462509,", foot",6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",5.302913,2462503
+521,world192.txt,2462509,", foot",6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",5.287518,2462503
+522,world192.txt,2462509,", foot",6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",5.612535,2462503
+523,world192.txt,2462509,", foot",6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",5.206432,2462503
+524,world192.txt,2462509,", foot",6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",5.297762,2462503
+525,world192.txt,2462509,", foot",6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",5.293227,2462503
+526,world192.txt,2462509,", foot",6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",5.26664,2462503
+527,world192.txt,2462509,", foot",6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",5.304167,2462503
+528,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",5.508265,2462485
+529,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",5.667533,2462485
+530,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",5.536534,2462485
+531,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",5.555171,2462485
+532,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",5.477774,2462485
+533,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",5.442572,2462485
+534,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",5.554566,2462485
+535,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",5.522191,2462485
+536,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",5.461703,2462485
+537,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",5.47113,2462485
+538,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",5.306166,2462485
+539,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",5.523243,2462485
+540,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",5.658386,2462485
+541,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",5.989018,2462485
+542,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",5.483392,2462485
+543,world192.txt,2462509," stone and gravel, 5,632",24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",5.499459,2462485
+544,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",5.573069,2462468
+545,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",5.595251,2462468
+546,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",5.59636,2462468
+547,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",5.640089,2462468
+548,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",6.130087,2462468
+549,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",6.259533,2462468
+550,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",6.26451,2462468
+551,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",5.662768,2462468
+552,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",6.031249,2462468
+553,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",6.005196,2462468
+554,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",5.680962,2462468
+555,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",5.949213,2462468
+556,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",6.130481,2462468
+557,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",5.751631,2462468
+558,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",5.708256,2462468
+559,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",5.689689,2462468
+560,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",5.51399,2462486
+561,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",5.507724,2462486
+562,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",5.438243,2462486
+563,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",5.702524,2462486
+564,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",5.64359,2462486
+565,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",5.697708,2462486
+566,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",5.762066,2462486
+567,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",5.496494,2462486
+568,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",5.485374,2462486
+569,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",5.535334,2462486
+570,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",5.496087,2462486
+571,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",5.499623,2462486
+572,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",5.581923,2462486
+573,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",5.949654,2462486
+574,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",5.509388,2462486
+575,world192.txt,2462509,que se yo estoy re loco,23,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",5.957173,2462486
+576,egmf.txt,64483,hermano,7,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.133829,64476
+577,egmf.txt,64483,hermano,7,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.136128,64476
+578,egmf.txt,64483,hermano,7,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.13503,64476
+579,egmf.txt,64483,hermano,7,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.136128,64476
+580,egmf.txt,64483,hermano,7,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.13477,64476
+581,egmf.txt,64483,hermano,7,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.146045,64476
+582,egmf.txt,64483,hermano,7,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.134977,64476
+583,egmf.txt,64483,hermano,7,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.13705,64476
+584,egmf.txt,64483,hermano,7,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.170882,64476
+585,egmf.txt,64483,hermano,7,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.17301,64476
+586,egmf.txt,64483,hermano,7,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.13549,64476
+587,egmf.txt,64483,hermano,7,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.135527,64476
+588,egmf.txt,64483,hermano,7,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.134035,64476
+589,egmf.txt,64483,hermano,7,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.133864,64476
+590,egmf.txt,64483,hermano,7,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.135038,64476
+591,egmf.txt,64483,hermano,7,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.143746,64476
+592,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.13971,64462
+593,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.14175,64462
+594,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.14188,64462
+595,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.145295,64462
+596,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.147701,64462
+597,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.154945,64462
+598,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.140909,64462
+599,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.142089,64462
+600,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.140734,64462
+601,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.140797,64462
+602,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.143268,64462
+603,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.141244,64462
+604,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.144152,64462
+605,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.139573,64462
+606,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.141833,64462
+607,egmf.txt,64483,m?s curioso que mujer,21,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.14933,64462
+608,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.147951,64449
+609,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.150521,64449
+610,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.149046,64449
+611,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.150851,64449
+612,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.14936,64449
+613,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.150136,64449
+614,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.151395,64449
+615,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.150423,64449
+616,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.148284,64449
+617,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.153485,64449
+618,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.149475,64449
+619,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.150852,64449
+620,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.148574,64449
+621,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.148857,64449
+622,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.149627,64449
+623,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.15082,64449
+624,egmf.txt,64483,k ac vv,7,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",0.132504,64476
+625,egmf.txt,64483,k ac vv,7,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",0.135352,64476
+626,egmf.txt,64483,k ac vv,7,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",0.135792,64476
+627,egmf.txt,64483,k ac vv,7,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",0.133962,64476
+628,egmf.txt,64483,k ac vv,7,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",0.136027,64476
+629,egmf.txt,64483,k ac vv,7,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",0.13732,64476
+630,egmf.txt,64483,k ac vv,7,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",0.136325,64476
+631,egmf.txt,64483,k ac vv,7,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",0.134878,64476
+632,egmf.txt,64483,k ac vv,7,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",0.134901,64476
+633,egmf.txt,64483,k ac vv,7,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",0.135214,64476
+634,egmf.txt,64483,k ac vv,7,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",0.136161,64476
+635,egmf.txt,64483,k ac vv,7,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",0.136974,64476
+636,egmf.txt,64483,k ac vv,7,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",0.13632,64476
+637,egmf.txt,64483,k ac vv,7,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",0.133836,64476
+638,egmf.txt,64483,k ac vv,7,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",0.134823,64476
+639,egmf.txt,64483,k ac vv,7,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",0.135145,64476
+640,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",10.600338,4638684
+641,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",9.849442,4638684
+642,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",9.995977,4638684
+643,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",10.287806,4638684
+644,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",10.949217,4638684
+645,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",9.873639,4638684
+646,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",10.666776,4638684
+647,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",9.908078,4638684
+648,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",9.768898,4638684
+649,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",10.131295,4638684
+650,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",10.305777,4638684
+651,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",9.893436,4638684
+652,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",10.132775,4638684
+653,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",9.852936,4638684
+654,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",9.905329,4638684
+655,ecoli.dat,4638690,aaataa,6,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",9.89026,4638684
+656,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",10.358438,4638666
+657,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",10.652363,4638666
+658,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",10.63888,4638666
+659,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",10.525478,4638666
+660,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",10.806822,4638666
+661,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",10.451512,4638666
+662,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",10.896448,4638666
+663,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",10.919432,4638666
+664,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",10.839993,4638666
+665,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",10.68668,4638666
+666,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",10.803129,4638666
+667,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",10.908184,4638666
+668,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",11.153479,4638666
+669,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",10.668684,4638666
+670,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",10.841313,4638666
+671,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",10.59229,4638666
+672,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",11.040025,4638630
+673,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",11.000994,4638630
+674,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",11.308638,4638630
+675,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",11.592207,4638630
+676,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",11.33733,4638630
+677,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",11.126178,4638630
+678,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",11.623468,4638630
+679,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",11.608763,4638630
+680,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",12.548716,4638630
+681,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",11.612676,4638630
+682,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",11.452044,4638630
+683,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",11.510004,4638630
+684,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",11.257814,4638630
+685,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",11.208965,4638630
+686,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",11.333478,4638630
+687,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",11.053636,4638630
+688,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=0",9.988392,4638682
+689,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 2-gram, nmh = 5, spMH = 5, threshold=5",10.117802,4638682
+690,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=0",10.877336,4638682
+691,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 2-gram, nmh = 5, spMH = 10, threshold=5",10.779947,4638682
+692,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=0",9.983202,4638682
+693,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 2-gram, nmh = 1, spMH = 5, threshold=5",10.093196,4638682
+694,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=0",10.07201,4638682
+695,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 2-gram, nmh = 1, spMH = 10, threshold=5",10.969345,4638682
+696,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=0",10.587876,4638682
+697,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 3-gram, nmh = 5, spMH = 5, threshold=5",10.364044,4638682
+698,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=0",10.097655,4638682
+699,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 3-gram, nmh = 5, spMH = 10, threshold=5",10.156882,4638682
+700,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=0",10.41473,4638682
+701,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 3-gram, nmh = 1, spMH = 5, threshold=5",10.307583,4638682
+702,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=0",10.224115,4638682
+703,ecoli.dat,4638690,ecolecua,8,"jkr: ngram, 3-gram, nmh = 1, spMH = 10, threshold=5",10.375522,4638682

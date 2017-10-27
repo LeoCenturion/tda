@@ -3,18 +3,22 @@ import random
 
 class JaccardMinhash():
 
-    randomInexes=[]
-
+    randomIndexesPattern=[]
+    randomIndexesText=[]
     def __init__(self,setsLenght,samples):
         indexes=range(setsLenght)
         random.shuffle(indexes)
-        self.randomInexes=indexes[0:samples]
+        self.randomIndexesPattern=indexes[0:samples]
+        random.shuffle(indexes)
+        self.randomIndexesText = indexes[0:samples]
 
     def minhash(self,s1, s2):
         tries = 0
+        for i in range(len(self.randomIndexesText)):
+            indexPattern=self.randomIndexesPattern[i]
+            indexText = self.randomIndexesText[i]
 
-        for i in self.randomInexes:
-            if(s1[i]==s2[i]):
+            if s1[indexPattern] == s2[indexText]:
                 return tries
             tries+=1
         return tries

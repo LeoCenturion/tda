@@ -1,0 +1,89 @@
+,text,len_text,pattern,len_pattern,algorithm,time,matches
+0,quijote.txt,2178973,coger?,6,naive,0.889176,0
+1,quijote.txt,2178973,coger?,6,kr,19.987253,0
+2,quijote.txt,2178973,mucha raz?n tiene este se?or,28,naive,0.816888,0
+3,quijote.txt,2178973,mucha raz?n tiene este se?or,28,kr,27.204294,0
+4,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,naive,0.807062,0
+5,quijote.txt,2178973,"Yo, Juan Gallo de Andrada, escribano de C?mara del Rey nuestro",62,kr,27.421872,0
+6,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,naive,0.790642,0
+7,quijote.txt,2178973,"Oh! un mounstro! Ah, no, era Fede",33,kr,26.749239,0
+8,bible.txt,4047389,God said,8,naive,1.472194,41
+9,bible.txt,4047389,God said,8,kr,48.869876,41
+10,bible.txt,4047389,And he walked in all,20,naive,1.504893,2
+11,bible.txt,4047389,And he walked in all,20,kr,49.388333,2
+12,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,naive,1.513591,1
+13,bible.txt,4047389,Then cometh Jesus with them unto a place called Gethsemane,58,kr,50.863991,1
+14,bible.txt,4047389,Hola papuchurri,15,naive,1.481783,0
+15,bible.txt,4047389,Hola papuchurri,15,kr,49.346077,0
+16,random.txt,100000,1EwtcQ,6,naive,0.039053,1
+17,random.txt,100000,1EwtcQ,6,kr,0.929168,1
+18,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,naive,0.03861,1
+19,random.txt,100000,KKJQ j3Y3MtIlGjKpvwojDz3,24,kr,1.28111,1
+20,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,naive,0.036741,1
+21,random.txt,100000,n66WQqLnLG q0m1Wy6!O0bvCgkNYhnPt lhzBbYhILKSZ0MlQZYXRIYY9WgE,60,kr,1.257044,1
+22,random.txt,100000,random significa aleatorio,26,naive,0.038606,0
+23,random.txt,100000,random significa aleatorio,26,kr,1.238747,0
+24,hprt.dat,56737,caacca,6,naive,0.026456,9
+25,hprt.dat,56737,caacca,6,kr,0.523201,9
+26,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,naive,0.025604,1
+27,hprt.dat,56737,gtggaagtttaatgactaagaggt,24,kr,0.689274,1
+28,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,naive,0.026731,1
+29,hprt.dat,56737,agccactaaggggacatggagcccttagtaattcctaccttagtaatagtctcatcatgc,60,kr,0.713193,1
+30,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,naive,0.022335,0
+31,hprt.dat,56737,"R?e y el mundo reir? contigo, ronca y dormir?s solo",51,kr,0.714493,0
+32,stm2.dat,86640,aggtca,6,naive,0.042808,32
+33,stm2.dat,86640,aggtca,6,kr,0.805998,32
+34,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,naive,0.045069,1
+35,stm2.dat,86640,atctgctaaaaatgagctttcagc,24,kr,1.071726,1
+36,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,naive,0.040706,1
+37,stm2.dat,86640,accatggaatactatgcagccacaaaaagtatgagttcatgtcctttgtaggacatggat,60,kr,1.109156,1
+38,stm2.dat,86640,Buscame como laturradeViPuey,28,naive,0.033043,0
+39,stm2.dat,86640,Buscame como laturradeViPuey,28,kr,1.066726,0
+40,rbs.dat,180388,taaaat,6,naive,0.088879,266
+41,rbs.dat,180388,taaaat,6,kr,1.667113,266
+42,rbs.dat,180388,acatagcatcataaatttgtgaca,24,naive,0.088233,1
+43,rbs.dat,180388,acatagcatcataaatttgtgaca,24,kr,2.224587,1
+44,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,naive,0.091225,1
+45,rbs.dat,180388,aactgagataacttataaatcaatgcaggtattctgtgttaaatgcttatgtaagcctga,60,kr,2.291377,1
+46,rbs.dat,180388,Flocicab -> malesemo,20,naive,0.066558,0
+47,rbs.dat,180388,Flocicab -> malesemo,20,kr,2.206377,0
+48,index.txt,2956,Nombre,6,naive,0.00119799999999,15
+49,index.txt,2956,Nombre,6,kr,0.028514,15
+50,index.txt,2956,.edu/~dporter/sampler/,22,naive,0.00117699999998,3
+51,index.txt,2956,.edu/~dporter/sampler/,22,kr,0.037481,3
+52,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,naive,0.00109400000002,0
+53,index.txt,2956,Descripci?n:  Genoma de la enfermedad de Alzh?imer (STM2),57,kr,0.037178,0
+54,index.txt,2956,Rexona no te abandona,21,naive,0.00112399999995,0
+55,index.txt,2956,Rexona no te abandona,21,kr,0.036268,0
+56,pi.txt,1000000,408504,6,naive,0.407032,3
+57,pi.txt,1000000,408504,6,kr,9.313069,3
+58,pi.txt,1000000,474887120879742391971298,24,naive,0.395335,1
+59,pi.txt,1000000,474887120879742391971298,24,kr,12.319307,1
+60,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,naive,0.398741,1
+61,pi.txt,1000000,439411167924584091526061686413002559143056811111779708277736,60,kr,12.679068,1
+62,pi.txt,1000000,el pollito pio,14,naive,0.384513,0
+63,pi.txt,1000000,el pollito pio,14,kr,12.217492,0
+64,world192.txt,2462509,", foot",6,naive,0.943471,18
+65,world192.txt,2462509,", foot",6,kr,22.386381,18
+66,world192.txt,2462509," stone and gravel, 5,632",24,naive,1.02393,1
+67,world192.txt,2462509," stone and gravel, 5,632",24,kr,29.895276,1
+68,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,naive,0.904504,1
+69,world192.txt,2462509,"ment owned and 2,203 km are nongovernment",41,kr,30.052146,1
+70,world192.txt,2462509,que se yo estoy re loco,23,naive,0.882039,0
+71,world192.txt,2462509,que se yo estoy re loco,23,kr,30.067432,0
+72,egmf.txt,64483,hermano,7,naive,0.025176,2
+73,egmf.txt,64483,hermano,7,kr,0.588328,2
+74,egmf.txt,64483,m?s curioso que mujer,21,naive,0.025544,0
+75,egmf.txt,64483,m?s curioso que mujer,21,kr,0.785589,0
+76,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,naive,0.02404,1
+77,egmf.txt,64483,"-!Cuidado!, no te vas a per...tigo",34,kr,0.790937,1
+78,egmf.txt,64483,k ac vv,7,naive,0.024184,0
+79,egmf.txt,64483,k ac vv,7,kr,0.593884,0
+80,ecoli.dat,4638690,aaataa,6,naive,2.16703,1977
+81,ecoli.dat,4638690,aaataa,6,kr,42.470058,1977
+82,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,naive,2.127969,1
+83,ecoli.dat,4638690,gcagccccggatgcccgccttcga,24,kr,57.454477,1
+84,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,naive,2.176173,1
+85,ecoli.dat,4638690,gcgcttgcagatgggtcgcaggttacttccttgcgcacaggatatagttataccagcgtt,60,kr,58.539196,1
+86,ecoli.dat,4638690,ecolecua,8,naive,1.664338,0
+87,ecoli.dat,4638690,ecolecua,8,kr,55.561087,0

@@ -8,6 +8,8 @@ class KRHash:
     h=None
     lenPattern = None
     def __init__(self,p,hash="string"):
+        self.prevMSCList = []
+        self.prevHashList = []
         self.p=p
         if hash == "binary":
             self.h= self.hString
@@ -42,3 +44,21 @@ class KRHash:
         self.prevHash = result
         return result
 
+    def multipleRollingHash(self,listT):
+        resultList =[]
+        for i in range(len(listT)):
+            t= listT[i]
+            if len(self.prevHashList)<=i:
+                self.prevHashList.append((self.h(t)))
+                self.prevMSCList.append(ord(t[0]))
+                resultList.append(self.prevHashList[i])
+
+            a1=numpy.mod(self.prevHashList[i]*256,self.p)
+            a2=numpy.mod((self.prevMSCList[i]*256**self.lenPattern),self.p)
+            a3=ord(t[-1])
+            result = numpy.mod(a1-a2+a3,self.p)
+
+            self.prevMSCList[i] = ord(t[0])
+            self.prevHashList[i] = result
+            resultList.append(result)
+        return resultList

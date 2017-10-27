@@ -1,6 +1,7 @@
 import time
 import minhash
 
+
 def jaccardKarpRabin(text,pattern,shingle,nGrams,nMinHashes,samplesPerMinHash,threshold):
     results = {}
     matches = []
@@ -11,14 +12,14 @@ def jaccardKarpRabin(text,pattern,shingle,nGrams,nMinHashes,samplesPerMinHash,th
         s = len(sp) * samplesPerMinHash
     else:
         s = samplesPerMinHash
+
     minhashes=[minhash.JaccardMinhash(len(sp),s) for i in xrange(nMinHashes)]
     t=minhash.JaccardMinhash.shingle(string=t, shingle=shingle, nGrams=nGrams)
     start = time.clock()
     for i in xrange(len(t)-len(pattern)):
         st= t[i:i+len(sp)]
-
         distances = [mh.minhash(sp,st) for mh in minhashes]
-        d = sum(distances)/len(distances)
+        d = float(sum(distances))/float(len(distances))
         if d <= threshold:
             matches.append(i)
 

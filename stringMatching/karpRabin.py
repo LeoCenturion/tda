@@ -37,10 +37,33 @@ def karpRabin(text,pattern):
 
     start = time.clock()
     for i in xrange(len(t) - len(p)):
-        hti = h.rollingHash(t[i:i + len(p)])
+        hti = h.rollingH    ash(t[i:i + len(p)])
         if hp == hti:
             matches.append(i)
 
+    finish = time.clock()
+
+    result["time"] = finish - start
+    result["matches"] = matches
+
+    return result
+
+def multipleKarpRabin(textList,pattern):
+    result = {}
+    matches = [[] for text in range(len(textList))]
+
+    lenT = min( [len(text) for text in textList] )
+    p = pattern
+    I = lenT* (len(p) ** 2)
+    h = krh.KRHash(p=numpy.ceil(random.random() * I))
+    hp = h.hashPattern(p)
+    start = time.clock()
+    for i in xrange(lenT - len(p)):
+        texts=[t[i:i + len(p)] for t in textList]
+        htiList = h.multipleRollingHash(texts)
+        for hti in htiList:
+            if hp == hti:
+                matches[htiList.index(hti)].append(i)
     finish = time.clock()
 
     result["time"] = finish - start

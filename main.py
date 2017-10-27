@@ -2,6 +2,10 @@ import pandas as pd
 from stringMatching import naive
 from stringMatching import karpRabin
 from stringMatching import jaccardKarpRabin
+from stringMatching import Colussi
+from stringMatching import ZhuTakaoka
+from stringMatching import ZTandBM
+from stringMatching import kmp as KMP
 import os
 import random
 
@@ -27,21 +31,31 @@ def main():
     for t in texts:
         if t.split(".")[1]=="gb":
             texts.remove(t)
+
     nGrams=[2,3]
     samplesPerMinHash = [5,10]
-    nMinHashes=[5,1]
-    threshold=[0,5]
+    nMinHashes=[3,1]
+    threshold=[1,3]
     n = [naive.naiveStringMatching,"naive"]
     kr = [karpRabin.karpRabin,"kr"]
-    algorithms=makeJKRFunctions(nGrams=nGrams,samplesPerMinHash=samplesPerMinHash,\
-                              nMinHashes=nMinHashes,threshold=threshold)
-    # algorithms=[]
-    algorithms.append(n)
-    algorithms.append(kr)
+    colussi = [Colussi.COLUSSI,"colussi"]
+    zt = [ZhuTakaoka.ZhuTakaokaSearch,"zhu takaoka"]
+    bm = [ZTandBM.BoyerMoore,"boyer moore"]
+    kmp = [KMP.KMP,"kmp"]
+    #algorithms=makeJKRFunctions(nGrams=nGrams,samplesPerMinHash=samplesPerMinHash,\
+                            #nMinHashes=nMinHashes,threshold=threshold)
 
-    patterns = []
-    l = range(10, 50)
-    n = 10
+    algorithms=[]
+    algorithms.append(bm)
+    algorithms.append(kmp)
+    # algorithms.append(n)
+    # algorithms.append(kr)
+    # algorithms.append(colussi)
+    # algorithms.append(zt)
+
+    # patterns = []
+    # l = range(10, 50)
+    # n = 10
     # for f in texts:
     #     tFile = open("./datasets/" + f, "r")
     #     t = tFile.read().rstrip()
@@ -55,13 +69,12 @@ def main():
     #     patterns.append(p)
     #     tFile.close()
 
-    df = pd.read_csv("StringMatching.csv",delimiter=";")
+    df = pd.read_csv("patronesProbados.csv",delimiter=";")
 
     for i in xrange(len(texts)):
 
         f = texts[len(texts)-i-1]
-        # pattern = patterns[len(texts)-i-1]
-        pattern = df[df.Texto==f]["Patron"].values
+        pattern = df[df.texto==f]["patron"].values
 
         tFile = open("./datasets/" + f, "r")
         t = tFile.read().rstrip()
@@ -78,19 +91,12 @@ def main():
 
         resultsDf = pd.DataFrame(results,columns=["text", "len_text", "pattern", "len_pattern", "algorithm", "time", "matches"])
 
-        csv = open("resultadosjkr.csv", "w")
+        csv = open("results2.csv", "w")
         resultsDf.to_csv(csv)
-
         tFile.close()
+        csv.close()
 
 
-
-
-    df = pd.DataFrame(results, columns=["text", "len_text", "pattern", "len_pattern", "algorithm", "time", "matches"])
-
-    csv = open("resultadosjkr.csv","w")
-    df.to_csv(csv)
-    csv.close()
 
 
 main()
